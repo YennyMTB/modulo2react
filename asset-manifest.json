@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3fe6ec8.css",
+    "main.js": "/static/js/main.f8f49f62.js",
+    "static/media/image-heroPC.jpg": "/static/media/image-heroPC.3de81110dee4f75f44f9.jpg",
+    "static/media/image-from-abovePC.jpg": "/static/media/image-from-abovePC.f316f3f3afc353415f71.jpg",
+    "static/media/image-interactivePC.jpg": "/static/media/image-interactivePC.1d330522c9ca6cf07a9c.jpg",
+    "static/media/image-curiosityPC.jpg": "/static/media/image-curiosityPC.40d51f38342a87fea0cc.jpg",
+    "static/media/image-soccer-teampc.jpg": "/static/media/image-soccer-teampc.24ac0872cf2b5dd86a58.jpg",
+    "static/media/image-night-arcadePC.jpg": "/static/media/image-night-arcadePC.a5acf9d0f154b09407d4.jpg",
+    "static/media/image-deep-earthPC.jpg": "/static/media/image-deep-earthPC.f8da6014c990a9866d8c.jpg",
+    "static/media/image-gridPC.jpg": "/static/media/image-gridPC.043c26effd2704be777a.jpg",
+    "static/media/image-fisheyePC.jpg": "/static/media/image-fisheyePC.8bb3f74e4211fc238b01.jpg",
+    "static/media/image-pocket-borealisPC.jpg": "/static/media/image-pocket-borealisPC.0b89db1f6a9c0e56dcfd.jpg",
+    "static/media/logo.svg": "/static/media/logo.5b4e652aff88b09ef8f1d465f3db445b.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "static/media/icon-pinterest.svg": "/static/media/icon-pinterest.61a3584463b61d0f0d6bc14bc5d1e40a.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "index.html": "/index.html",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "main.b3fe6ec8.css.map": "/static/css/main.b3fe6ec8.css.map",
+    "main.f8f49f62.js.map": "/static/js/main.f8f49f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3fe6ec8.css",
+    "static/js/main.f8f49f62.js"
+  ]
+}
